@@ -1,0 +1,18 @@
+#wrap {
+	font-family: Helvitica Neue;
+	width: 720px;
+	margin: auto;
+	background-color: #FFFFF0;
+}
+p,h1 {
+	text-align: left;
+}
+p {
+	font-size: 20px;
+}
+h4 {
+	text-align: center;
+}
+button {
+	float: right;
+}
