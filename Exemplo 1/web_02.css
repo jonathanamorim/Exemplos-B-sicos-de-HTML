@@ -1,0 +1,21 @@
+.wrap {
+	margin-right: 10px;
+	margin-bottom: 5px;
+	padding: 4px;
+	width: 200px;
+}
+.red {
+	background-color: #ff0000;
+	width: 100px;
+	display: inline-block;
+}
+.green {
+	background-color: #008000;
+	width: 100px;
+	display: inline-block;
+}
+.blue {
+	background-color: #0000ff;
+	width: 100px;
+	display: inline-block;
+}
